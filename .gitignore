@@ -1,5 +1,6 @@
-inputs/malaria_dataset/cell_images/Parasitized
-inputs/malaria_dataset/cell_images/Uninfected
+inputs/malaria_dataset/cell_images/test
+inputs/malaria_dataset/cell_images/train
+inputs/malaria_dataset/cell_images/validation
 kaggle.json
 *.ipynb
 __pycache__/
